@@ -20,5 +20,5 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 ## Author
 
-- Frontend Mentor - (https://github.com/bbtunde-git/Country-App)
+- GitHub - (https://github.com/bbtunde-git/Country-App)
 - Twitter - (https://twitter.com/tee__babs)
