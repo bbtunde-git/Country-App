@@ -38,7 +38,7 @@ const Detail = () => {
             <div className="flex flex-col lg:flex-row gap-8">
               <ul className="flex justify-between flex-col space-y-2">
                 <li>
-                  <span className="font-semibold">Native name: </span>
+                  <span className="font-semibold">Native Name: </span>
                   {country.nativeName}
                 </li>
                 <li>

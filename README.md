@@ -2,9 +2,7 @@
 
 This is a solution to the [REST Countries API with color theme switcher challenge for Azubi Africa Portfolio Project]
 
-## My process
-
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - TailwindCss
@@ -18,7 +16,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 - Creating context for switching between Dark/Light mode with Tailwindcss.
 
-## Author
+#### Author
 
-- GitHub - (https://github.com/bbtunde-git/Country-App)
+- - (https://github.com/bbtunde-git/Country-App)
 - Twitter - (https://twitter.com/tee__babs)
