@@ -131,12 +131,12 @@ const Home = () => {
             </li>
             <li>
               <button
-                value="Americas"
+                value="Americans"
                 onClick={handleRegion}
                 className="w-full py-1 hover:bg-darkBlue hover:text-lightGray
               dark:hover:bg-light dark:hover:text-darkBlue"
               >
-                Americas
+                Americans
               </button>
             </li>
             <li>
