@@ -105,7 +105,7 @@ const Home = () => {
               dark:hover:bg-light dark:hover:text-darkBlue
               "
               >
-                Filter bg Region
+                Filter by Region
               </button>
             </li>
             <li>
@@ -131,12 +131,12 @@ const Home = () => {
             </li>
             <li>
               <button
-                value="Americans"
+                value="America"
                 onClick={handleRegion}
                 className="w-full py-1 hover:bg-darkBlue hover:text-lightGray
               dark:hover:bg-light dark:hover:text-darkBlue"
               >
-                Americans
+                America
               </button>
             </li>
             <li>
